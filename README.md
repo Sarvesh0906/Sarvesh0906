@@ -82,6 +82,12 @@ me.sayHi()
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sarvesh0906&theme=github_dark" alt="GitHub Profile Summary" />
 </div>
 
+<br>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvesh0906&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+</div>
+
 
 
 ## ⚡ Coding Profiles
@@ -89,9 +95,23 @@ me.sayHi()
 - [LeetCode](https://leetcode.com/u/SarveshChaurasia/)  
 - [GeeksforGeeks](https://www.geeksforgeeks.org/user/sarveshcha1wfb/)
 
+<div>
+    <h3>⚡ Coding Stats</h3>
+  
+  [![WakaTime](https://wakatime.com/badge/user/690b688d-373b-4fda-8b09-61da844c9526.svg?style=for-the-badge)](https://wakatime.com/@690b688d-373b-4fda-8b09-61da844c9526)
+  
+  <img src="github-stats/generated/overview.svg" alt="GitHub Overview" width="100%">
+  <img src="github-stats/generated/languages.svg" alt="Top Languages" width="100%">
+  
+</div>
+
 ---
 
 <div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=whoisjayd&color=00d9ff&style=for-the-badge&label=Profile+Views)
+
+<br>
   
 *"Code is art. Craft it well, share it freely, debug it gracefully."*
 
