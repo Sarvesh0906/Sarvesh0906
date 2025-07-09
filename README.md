@@ -88,28 +88,45 @@ me.sayHi()
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sarvesh0906&theme=react-dark&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 </div>
 
+<!--
+## 🎵 What I'm Up To
 
-
-## ⚡ Coding Profiles
-
-- [LeetCode](https://leetcode.com/u/SarveshChaurasia/)  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/sarveshcha1wfb/)
-
-<div>
-    <h3>⚡ Coding Stats</h3>
+<div align="center">
+  
+<table>
+<tr>
+<td width="50%" align="center">
+  <h3>🎧 Currently Listening</h3>
+  
+  [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=v7979a26s0d6q6o4ncpdss42v&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=v7979a26s0d6q6o4ncpdss42v&redirect=true)
+  
+</td>
+<td width="50%" align="center">
+  <h3>⚡ Coding Stats</h3>
   
   [![WakaTime](https://wakatime.com/badge/user/690b688d-373b-4fda-8b09-61da844c9526.svg?style=for-the-badge)](https://wakatime.com/@690b688d-373b-4fda-8b09-61da844c9526)
   
   <img src="github-stats/generated/overview.svg" alt="GitHub Overview" width="100%">
   <img src="github-stats/generated/languages.svg" alt="Top Languages" width="100%">
   
+</td>
+</tr>
+</table>
+
 </div>
+-->
+
+## ⚡ Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/SarveshChaurasia/)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/sarveshcha1wfb/)
+
 
 ---
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=whoisjayd&color=00d9ff&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sarvesh0906&color=00d9ff&style=for-the-badge&label=Profile+Views)
 
 <br>
   
